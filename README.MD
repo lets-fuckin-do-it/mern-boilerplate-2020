@@ -2,7 +2,7 @@
 ![Project Screenshot](1.png)
 ![Form Screenshot](2.png)
 
-My personal MERN stack starter boilerplate, so I dont have to type it every time from scratch. It is optimized for React single page app, as if you would not use single page app then Next.je is better suggestion. I added simple but efective Todo app just to show all features annd to have setup and test all the routes, and react state management.
+My personal MERN stack starter boilerplate, so I dont have to type it every time from scratch. It is optimized for React single page app, as if you would not use single page app then Next.js is better suggestion. I added a simple but effective Todo app just to show all the features, I have setup and tested all the routes as well as react state management.
 
 
 > Node, ExpressJs and MongoDB in backend.
